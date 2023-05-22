@@ -19,3 +19,19 @@
     width: 100%;
     text-align: center;
 }
+.info-cinema {
+    width: 100%;
+    background-color: rgb(250, 138, 1);
+}
+.info-filme {
+    width: 100%;
+    background-color: rgb(141, 110, 69);
+}
+.info-filme-retro {
+    width: 100%;
+    background-color: rgb(252, 140, 3);
+}
+.info-destaque {
+    width: 100%;
+    background-color: rgb(146, 109, 61);
+}
