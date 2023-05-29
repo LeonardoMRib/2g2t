@@ -35,3 +35,12 @@
     width: 100%;
     background-color: rgb(146, 109, 61);
 }
+.img-estilo {
+    width: 100%;
+}
+@media screen and (mind-width: 768px) {
+    .menu {
+        height: 120px;
+        background-color: blue;
+    }
+}
